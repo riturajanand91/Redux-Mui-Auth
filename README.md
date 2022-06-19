@@ -1,6 +1,6 @@
 # React Auth Tree
 
-React Redux Sate management Application with Node JWT API Auth with hooks and Libraries like:
+React Redux State Auth management Application with Node JWT API, hooks and Libraries like:
 
 1. MUI React
 2. Redux
